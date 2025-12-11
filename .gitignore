@@ -1,0 +1,49 @@
+# -------------------------
+# Python virtual environment
+# -------------------------
+.venv/
+
+# -------------------------
+# Python cache files
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# Tool caches
+# -------------------------
+.pytest_cache/
+.ruff_cache/
+
+# -------------------------
+# VS Code settings (local)
+# -------------------------
+.vscode/
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Explanation:
+# - We ignore .vscode/ entirely to avoid committing local editor settings.
+# - But we ALLOW project-level settings.json / launch.json / tasks.json
+#   because these may be intentionally shared for consistent tooling setup.
+
+# -------------------------
+# Logs & temp files
+# -------------------------
+*.log
+*.tmp
+
+# -------------------------
+# Windows specific
+# -------------------------
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# -------------------------
+# Misc
+# -------------------------
+.DS_Store  # (in case files move between OS)
