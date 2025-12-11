@@ -11,6 +11,7 @@ Designed for clear progression from foundational topics to advanced techniques.
 
 ## Contents
 
+- **Environment Setup** — Python installation, virtual environments, tools
 - **Basics** — Syntax, data types, control flow, functions
 - **Intermediate** — Collections, error handling, modules, virtual environments
 - **OOP** — Classes, inheritance, design patterns (intro)
@@ -25,6 +26,7 @@ Designed for clear progression from foundational topics to advanced techniques.
 
 ```
 python-study-notes/
+├── environment/
 ├── basics/
 ├── intermediate/
 ├── oop/
