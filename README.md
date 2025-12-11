@@ -11,13 +11,13 @@ Designed for clear progression from foundational topics to advanced techniques.
 
 ## Contents
 
-- **Basics** — Syntax, data types, control flow, functions  
-- **Intermediate** — Collections, error handling, modules, virtual environments  
-- **OOP** — Classes, inheritance, design patterns (intro)  
-- **Practical** — Automation scripts, API usage, CLI tools  
-- **Algorithms** — Core exercises, problem-solving patterns  
-- **Web (Future)** — FastAPI, Flask  
-- **Advanced (Future)** — Async, type checking, testing, packaging  
+- **Basics** — Syntax, data types, control flow, functions
+- **Intermediate** — Collections, error handling, modules, virtual environments
+- **OOP** — Classes, inheritance, design patterns (intro)
+- **Practical** — Automation scripts, API usage, CLI tools
+- **Algorithms** — Core exercises, problem-solving patterns
+- **Web (Future)** — FastAPI, Flask
+- **Advanced (Future)** — Async, type checking, testing, packaging
 
 ---
 
@@ -35,22 +35,30 @@ python-study-notes/
 └── README.md
 ```
 
-
 ---
 
 ## Usage
 
-1. Explore folders in the suggested learning order.  
-2. Run practice scripts and modify them for deeper understanding.  
-3. Add personal notes, experiments, and custom examples.  
+1. Explore folders in the suggested learning order.
+2. Run practice scripts and modify them for deeper understanding.
+3. Add personal notes, experiments, and custom examples.
 
 ---
 
 ## Requirements
 
 - Python 3.10+
-- pip / venv  
+- pip / venv
 - Recommended: VS Code
+
+---
+
+## Commit Message Guide
+
+This repository follows a structured commit message convention.  
+To see the full rules and examples, refer to:
+
+[COMMIT_GUIDE.md](./COMMIT_GUIDE.md)
 
 ---
 
@@ -65,5 +73,3 @@ MIT License (see the LICENSE file for details)
 © 2025 bc8c.  
 All content in this repository is released under the MIT License.  
 You may use, modify, and distribute this material as permitted by the license, provided that the original copyright notice is included.
-
-
