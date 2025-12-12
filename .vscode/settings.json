@@ -1,0 +1,17 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    },
+    // Use Black from this project's .venv instead of the extension's bundled Black
+    "black-formatter.path": [
+        "${workspaceFolder}/.venv/Scripts/python.exe",
+        "-m",
+        "black"
+    ],
+    "python.testing.pytestArgs": [
+        "test"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

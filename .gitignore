@@ -20,7 +20,7 @@ __pycache__/
 # -------------------------
 # VS Code settings (local)
 # -------------------------
-.vscode/
+.vscode/*
 !.vscode/settings.json
 !.vscode/launch.json
 !.vscode/tasks.json
