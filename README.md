@@ -49,8 +49,8 @@ python-study-notes/
 
 ## Requirements
 
-- Python 3.10+
-- pip / venv
+- Python 3.12
+- poetry + uv
 - Recommended: VS Code
 
 ---
