@@ -32,6 +32,7 @@ python-study-notes/
 ├── intermediate/
 ├── oop/
 ├── practical/
+├── documentation
 ├── algorithms/
 ├── web/
 ├── advanced/
