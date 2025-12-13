@@ -16,6 +16,7 @@ Designed for clear progression from foundational topics to advanced techniques.
 - **Intermediate** — Collections, error handling, modules, virtual environments
 - **OOP** — Classes, inheritance, design patterns (intro)
 - **Practical** — Automation scripts, API usage, CLI tools
+- **Documentation** — Docstrings, PEP 257, generating project documentation
 - **Algorithms** — Core exercises, problem-solving patterns
 - **Web (Future)** — FastAPI, Flask
 - **Advanced (Future)** — Async, type checking, testing, packaging
