@@ -1,11 +1,13 @@
 # The following line is a comment explaining that the code above prints a message
-# Comments are ignored by the Python interpreter and are used to provide explanations or notes in the code
+# Comments are ignored by the Python interpreter and are used to provide
+# explanations or notes in the code
 # You can write comments on their own line as well
 # This is a single-line comment
 # Comments can also be used to temporarily disable code
 # print("This line is commented out and will not execute")
 # End of the comments example
-# Comments can be very useful for documenting your code and making it easier to understand for others (or yourself in the future)
+# Comments can be very useful for documenting your code and making it
+# easier to understand for others (or yourself in the future)
 # This is another comment explaining that comments are important for code clarity
 # Always strive to write clear and concise comments
 # to enhance the readability of your code.
