@@ -44,7 +44,7 @@ Python automatically determines the type of the value being assigned.
 
 ---
 
-## Updating a variable
+## Updating a variable (Reassigning)
 
 A variable can be reassigned to a new value at any time.
 
@@ -73,4 +73,4 @@ After reassignment, the variable name refers to the new value.
 
 The code shown in this section will be collected into the following file:
 
-* [`01_creating_variables.py`](./01_creating_variables.py)
+* [`01_creating_variables.py`](../examples/01_creating_variables.py)
