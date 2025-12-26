@@ -1,6 +1,8 @@
 import keyword
 
+# --------------------------------------------------------
 # Valid variable names
+# --------------------------------------------------------
 name = "Alice"
 age2 = 30
 _private_value = None  # leading underscore is allowed
@@ -12,7 +14,9 @@ print(name, age2, _private_value, long_name_123)
 π = 3.14159
 print(π)
 
+# --------------------------------------------------------
 # Invalid variable names
+# --------------------------------------------------------
 
 # invalid: cannot start with a digit
 # 1st_value = 10  # SyntaxError
@@ -33,8 +37,9 @@ print(first_value, my_value, for_loop)
 
 print("for is keyword?", keyword.iskeyword("for"))
 
-
+# --------------------------------------------------------
 # Best practices for readable and maintainable names
+# --------------------------------------------------------
 
 # poor: unclear
 x = 0
@@ -49,7 +54,9 @@ for i in range(3):
 users_list = ["alice", "bob"]
 print(total_items, users_list)
 
+# --------------------------------------------------------
 # Syntax rules vs style conventions
+# --------------------------------------------------------
 
 # syntax rule violation (commented out):
 # 2value = 5  # would raise SyntaxError
